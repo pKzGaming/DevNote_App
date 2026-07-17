@@ -21,13 +21,17 @@ Aktuelle Version immer unter dem neuesten Release (z. B. `DevNote-v1.1.0.apk`)
 
 ## Was ist DevNote?
 
-DevNote ist das **Cyberpunk Game-Dev Board + Mobile-App** von Solo-Entwickler **pKzGaming** — für Ideen, Notizen und Community-Tipps rund um die eigene Spieleentwicklung.
+DevNote ist das **Game-Dev Board + Mobile-App** von Solo-Entwickler **pKzGaming** — für Ideen, Notizen und Community-Tipps zur eigenen Spieleentwicklung.
 
 Aktueller Fokus der Tipps & Boards:
 
-> **Prison Escape** (Arbeitstitel) — Multiplayer-Horror-FPS im Gefängnis: Stealth, Verstecken, Entkommen, Atmosphäre. Technisch auf dem Framework **MP_FPS_Kit** (Unity Netcode).
+> **Prison Escape** (Arbeitstitel) — Multiplayer-**Horror-Escape**-Spiel.  
+> Erste Karte: **Gefängnis**. Weitere Maps sind geplant.  
+> Mehrere **Charaktere** zum Auswählen — jeder mit speziellen Fähigkeiten, die bei der Flucht helfen.  
+> Bis zum Release sind **mehrere Monster** geplant.  
+> Kern: Stealth, Verstecken, Entkommen, Atmosphäre — technisch auf **MP_FPS_Kit** (Unity Netcode).
 
-Community-Ideen sollen sich auf dieses Spiel beziehen (Mechaniken, Level, Horror-Situationen, Multiplayer) — nicht auf generische Shooter.
+Community-Ideen sollen sich auf dieses Horror-Escape-Spiel beziehen (Maps, Charaktere, Monster, Escape-Mechaniken, Multiplayer) — nicht auf generische Shooter.
 
 - Website / Board: https://pkzgaming-devnote.vercel.app  
 - Code-Repo (privat): [`pKzGaming/DevNote`](https://github.com/pKzGaming/DevNote)
