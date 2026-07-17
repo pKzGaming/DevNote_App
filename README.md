@@ -35,10 +35,6 @@ Community-Ideen sollen sich auf dieses Horror-Escape-Spiel beziehen (Maps, Chara
 
 - Website / Board: https://pkzgaming-devnote.vercel.app  
 
-## Release-Flow
-
-Neue APKs werden über die DevNote-Admin-Seite veröffentlicht und landen hier als Release-Asset.
-
 ## Support
 
-Über die DevNote-Website oder den Admin der Instanz.
+Über die DevNote-Website oder App.
