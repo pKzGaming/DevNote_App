@@ -34,7 +34,6 @@ Aktueller Fokus der Tipps & Boards:
 Community-Ideen sollen sich auf dieses Horror-Escape-Spiel beziehen (Maps, Charaktere, Monster, Escape-Mechaniken, Multiplayer) — nicht auf generische Shooter.
 
 - Website / Board: https://pkzgaming-devnote.vercel.app  
-- Code-Repo (privat): [`pKzGaming/DevNote`](https://github.com/pKzGaming/DevNote)
 
 ## Release-Flow
 
