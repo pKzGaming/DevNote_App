@@ -1,4 +1,3 @@
-```markdown
 # DevNote App
 
 Offizielle **Android-APK**-Releases für DevNote.
@@ -42,4 +41,3 @@ Board / Website: [pkzgaming-devnote.vercel.app](https://pkzgaming-devnote.vercel
 ## Support
 
 Über die DevNote-Website oder die App.
-```
