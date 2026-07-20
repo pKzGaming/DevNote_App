@@ -9,7 +9,7 @@ Dieses Repo enthält **keine App-Quellen** — nur Release-Assets (`.apk`) über
 - Website: [DevNote Downloads](https://pkzgaming-devnote.vercel.app/downloads)
 - Releases: [github.com/pKzGaming/DevNote_App/releases](https://github.com/pKzGaming/DevNote_App/releases)
 
-Aktuelle Version immer unter dem **neuesten Release** (z. B. `DevNote-v1.2.1.apk`).
+Aktuelle Version immer unter dem **neuesten Release** (z. B. `DevNote-v1.2.5a.apk`).
 
 ## Installation (Android)
 
